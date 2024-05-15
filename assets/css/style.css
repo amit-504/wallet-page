@@ -403,7 +403,6 @@ p {
     padding: 8px 24px;
     border-radius: 25.5px;
     background: var(--col-black-);
-    border: none;
     transition: all 150ms linear;
 }
 
